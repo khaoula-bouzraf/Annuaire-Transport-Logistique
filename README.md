@@ -1,2 +1,2 @@
 # Annuaire-Transport-Logistique
-Application web de transport et logistique (cas d'un annuaire).
+ Data extraction, transformation, and classification, implementation of a transport and logistics web application, and a Visualization dashboard
