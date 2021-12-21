@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.333333",
+                    " 48.75"
+                ]
+            },
+            "properties": {
+                "id": "671ecbb4526d791fd008300dd40c97d6",
+                "index": 0,
+                "isActive": true,
+                "logo": "8b72caf9f06f0f81ff2d8912057d7924.jpg",
+                "image": "8b72caf9f06f0f81ff2d8912057d7924.jpg",
+                "link": "http://localhost/pfa/general/dhl-express/3",
+                "url": "",
+                "name": "DHL Express",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "3 r Feydeau, 75002 PARIS",
+                "about": "Envois Express \r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

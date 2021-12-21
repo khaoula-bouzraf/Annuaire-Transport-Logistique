@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.333333",
+                    "48.866667"
+                ]
+            },
+            "properties": {
+                "id": "f9995edfc5ac9ef8d6e1ddb3d713d977",
+                "index": 0,
+                "isActive": true,
+                "logo": "bc973dd692bbca820f57f15c8be59689.jpg",
+                "image": "bc973dd692bbca820f57f15c8be59689.jpg",
+                "link": "http://localhost/pfa/general/aac-globe-express/2",
+                "url": "https://www.google.com/search?q=AAC+Globe+Express+horaire+&amp;biw=1366&amp;bih=625&amp;sxsrf=ALeKk00prS6zFhPlO9YyiEUZaN0IgIlQNw%3A1623187299450&amp;ei=Y9-_YIiOG4W-a73BiFA&amp;oq=AAC+Globe+Express+horaire+&amp;gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEdQzBVYiHVgwXdoAHAEeAGAAQCIAQCSAQCYAQKgAQGgAQKqAQdnd3Mtd2l6sAEIyAEIwAEB&amp;sclient=gws-wiz&amp;ved=0ahUKEwjIy4zz-4jxAhUF3xoKHb0gAgoQ4dUDCA4&amp;uact=5#",
+                "name": "AAC Globe Express",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "01 40 09 00 99",
+                "address": "5 r des Petits Hôtels, 75010 PARIS",
+                "about": "Transport routi\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

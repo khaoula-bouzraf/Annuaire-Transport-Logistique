@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.35",
+                    " 48.75"
+                ]
+            },
+            "properties": {
+                "id": "c95ab58057e702217f06c4e66d908c91",
+                "index": 0,
+                "isActive": true,
+                "logo": "16b765320011e0d4e5f135bf34b6493f.jpg",
+                "image": "16b765320011e0d4e5f135bf34b6493f.jpg",
+                "link": "http://localhost/pfa/general/allo-fret/1",
+                "url": "",
+                "name": "Allo Fret",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "OGARIS - BATIMENT R pl Logistique, 94150 RUNGIS",
+                "about": " stockage , tra\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

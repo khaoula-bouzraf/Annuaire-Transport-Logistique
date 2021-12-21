@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.958456",
+                    "24.413638"
+                ]
+            },
+            "properties": {
+                "id": "edc59b25915b3fd773799d4a2362527c",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost:8888/atlas_2.3/general/11asd/11",
+                "url": "",
+                "name": "11asd",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "asd",
+                "about": "sadasd\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
